@@ -43,3 +43,7 @@ By learning from thousands of labeled tissue samples, the model can identify **m
 
 ##  Impact
 This project highlights how **AI can complement medical expertise**, offering speed, scalability, and accuracy in life-saving diagnoses. By bridging the gap between technology and healthcare, it brings us closer to a future where **deep learning enhances precision medicine** and improves survival rates through timely intervention.  
+
+https://github.com/archanag15/Deep-Learning-for-Cancer-Detection-in-Histopathological-Images/tree/98f4767a8084c57cdcf5ab81df5308680a6e9d2f
+
+"C:\Users\Amulya\Downloads\CancerAI\CancerAI"
